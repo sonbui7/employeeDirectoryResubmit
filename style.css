@@ -1,0 +1,47 @@
+.row {
+    height: inherit;
+}
+
+#sideBar {
+    background-color: #303030;
+    height: auto;
+}
+
+#sideView,
+#sideAdd,
+#sideVerify {
+    margin: 10px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fas {
+    color: white;
+    padding-left: 40px;
+    font-size: 24px;
+}
+
+#myDude {
+    margin: auto;
+    padding: 100% 25%;
+}
+
+.employeeBox {
+    border: 1px solid lightgray;
+    margin: 10px 5px;
+}
+
+#firstName,
+#roomNum,
+#teleNum {
+    width: 30%;
+    float: left;
+}
+
+.clearfix {
+    overflow: auto;
+  }
+
+#verifyInput {
+    width: 25%;
+}
